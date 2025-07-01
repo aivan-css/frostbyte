@@ -1,7 +1,7 @@
 # frostbyte
 A frosted glass Vencord theme with full transparency and blur. Clean, minimal, and dark-mode friendly.
-# read ts
-# frostbyte
+
+# what is frostbyte
 
 a fully transparent and glassy theme for [vencord](https://vencord.dev/).  
 perfect for aesthetic setups and dark-mode lovers.
@@ -14,7 +14,7 @@ perfect for aesthetic setups and dark-mode lovers.
 ## how to install
 1. go to `Settings > Vencord > Themes`
 2. click `Open Themes Folder`
-3. drop in `ghostcord.theme.css`
+3. drop in `frostbite.css`
 4. enable it from the list
 
 ## customizing
