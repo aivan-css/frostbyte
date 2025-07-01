@@ -1,0 +1,15 @@
+:root {
+    --background-primary: rgba(20, 20, 20, 0.2);
+    --background-secondary: rgba(20, 20, 20, 0.15);
+    --background-secondary-alt: rgba(20, 20, 20, 0.1);
+    --background-tertiary: rgba(20, 20, 20, 0.05);
+    --channeltextarea-background: rgba(20, 20, 20, 0.25);
+    --chat-background: transparent;
+    --background-floating: rgba(30, 30, 30, 0.35);
+    --background-accent: rgba(40, 40, 40, 0.25);
+    --scrollbar-thin-thumb: rgba(255,255,255,0.1);
+    --scrollbar-auto-thumb: rgba(255,255,255,0.1);
+    --scrollbar-auto-track: transparent;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+}
